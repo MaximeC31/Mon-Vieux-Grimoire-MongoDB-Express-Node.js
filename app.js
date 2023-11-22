@@ -1,14 +1,33 @@
+const fs = require('fs');
 const express = require('express');
-
+const mongoose = require('mongoose');
 const app = express();
+const bookRoutes = require('./routes/book');
 
-// Middleware pour logguer les requêtes reçues
+// Middleware: Request Logging
 app.use((req, res, next) => {
-  console.log('Requête reçue !');
+  console.log('Request received');
+
+  const { headers, ip, url, hostname } = req;
+  const logObject = {
+    time: new Date().toLocaleString(),
+    headers,
+    ip,
+    url,
+    hostname
+  };
+
+  const logs = JSON.stringify(logObject, null, 2) + '\n';
+  fs.appendFile('server.log', logs, (error) => {
+    if (error) {
+      console.error('Error writing to server.log:', error);
+    }
+  });
+
   next();
 });
 
-// Middleware pour configurer les en-têtes CORS
+// Middleware: CORS Headers
 app.use((req, res, next) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content, Accept, Content-Type, Authorization');
@@ -16,36 +35,38 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use(express.json());
+// Connect to MongoDB
+const connectToMongoDB = async () => {
+  try {
+    const connectionOptions = {
+      useNewUrlParser: true,
+      useUnifiedTopology: true
+    };
 
-// Route pour récupérer des objets sous '/api/stuff'
-app.get('/api/stuff', (req, res) => {
-  const stuff = ['C"est une requête GET'];
-  res.status(200).json(stuff);
+    await mongoose.connect('mongodb+srv://maximec31:IQd5b6M7weufy4em@atlascluster.extoiwy.mongodb.net/?retryWrites=true&w=majority', connectionOptions);
+
+    console.log('Connected to MongoDB successfully!');
+  } catch (error) {
+    console.error('Connection to MongoDB failed!', error);
+  }
+};
+connectToMongoDB();
+
+app.use('/api/books', bookRoutes);
+
+app.use(async (req, res, next) => {
+  try {
+    res.status(200).send('This is the generic response');
+    console.log('Response OK');
+  } catch (error) {
+    res.status(500).send('Error');
+    console.log('Response sent with error');
+  }
 });
 
-// Route pour récupérer des objets sous '/api/stuff'
-app.post('/api/stuff', (req, res) => {
-  const stuff = ['C"est une requête POST'];
-  console.log(req.body);
-  res.status(200).json(req.params);
-});
-
-// Middleware pour définir un statut HTTP 201
-app.use((req, res, next) => {
-  res.status(201);
-  next();
-});
-
-// Middleware pour renvoyer une réponse JSON
-app.use((req, res, next) => {
-  res.json({ message: 'Votre requête a bien été reçue !' });
-  next();
-});
-
-// Middleware pour logguer la réponse envoyée avec succès
-app.use((req, res, next) => {
-  console.log('Réponse envoyée avec succès !');
+app.use((error, req, res, next) => {
+  console.error(error.stack);
+  res.status(500).json({ error: 'Something went wrong!' });
 });
 
 module.exports = app;

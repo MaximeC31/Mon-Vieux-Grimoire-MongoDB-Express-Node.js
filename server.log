@@ -1,0 +1,3672 @@
+{
+  "time": "18/11/2023 11:20:50",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:20:51",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:20:57",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/thing/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:20:57",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/thing/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:21:04",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:21:04",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:21:32",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:21:32",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:21:33",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:21:33",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:23:33",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "pragma": "no-cache",
+    "cache-control": "no-cache",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:23:34",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "pragma": "no-cache",
+    "cache-control": "no-cache",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:23:53",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:23:54",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:24:32",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:24:33",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:25:01",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:25:02",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:25:13",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"4-qUqP5cyxm6YcTAhz05Hph5gvu9M\""
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:25:13",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:26:07",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/test",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:26:07",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/test",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:26:13",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/test",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:26:13",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/test",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:27:05",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"4-qUqP5cyxm6YcTAhz05Hph5gvu9M\""
+  },
+  "ip": "::1",
+  "url": "/test",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:27:06",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/test",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:27:08",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/test",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:27:09",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/test",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:31:13",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/test",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:31:14",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/test",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:31:25",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:31:25",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:33:08",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"4-qUqP5cyxm6YcTAhz05Hph5gvu9M\""
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:33:08",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:33:21",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"4-qUqP5cyxm6YcTAhz05Hph5gvu9M\""
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:33:22",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:33:50",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:33:50",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:34:07",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:34:08",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:34:40",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:34:41",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:35:11",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:35:12",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:35:12",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"4-qUqP5cyxm6YcTAhz05Hph5gvu9M\""
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:35:13",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:35:19",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"4-qUqP5cyxm6YcTAhz05Hph5gvu9M\""
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:35:19",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:35:42",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:35:42",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:35:49",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:35:50",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:36:02",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:36:02",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:38:23",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:38:23",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:38:38",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:38:39",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:39:54",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:39:55",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:40:46",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:40:46",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:41:15",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:41:15",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:41:36",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:41:36",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:42:14",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:42:14",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:42:15",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:42:15",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:42:39",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:42:40",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:42:41",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:42:41",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:42:42",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:42:42",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:43:02",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "pragma": "no-cache",
+    "cache-control": "no-cache",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:43:02",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "pragma": "no-cache",
+    "cache-control": "no-cache",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:43:31",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "pragma": "no-cache",
+    "cache-control": "no-cache",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/things/777",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:43:31",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "pragma": "no-cache",
+    "cache-control": "no-cache",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/things/777",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:50:26",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:50:26",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/books",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:53:43",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"2-l9Fw4VUO7kr8CvBlt4zaMCqXZ0w\""
+  },
+  "ip": "::1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:53:53",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/books",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:54:34",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "18/11/2023 11:54:35",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/api/books",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7",
+    "if-none-match": "W/\"1c-UNN7wwI6OabP2C558c4m/rIohKA\""
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:11:19",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "sec-fetch-site": "none",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-user": "?1",
+    "sec-fetch-dest": "document",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:11:20",
+  "headers": {
+    "host": "localhost:3000",
+    "connection": "keep-alive",
+    "sec-ch-ua": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"",
+    "dnt": "1",
+    "sec-ch-ua-mobile": "?0",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-dest": "image",
+    "referer": "http://localhost:3000/",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7"
+  },
+  "ip": "::1",
+  "url": "/favicon.ico",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:11:25",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:13:44",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:15:06",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:30:03",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "124"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:32:20",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "123"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:33:39",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "123"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:34:40",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "123"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:36:26",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "159"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:36:34",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "157"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:37:55",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:38:30",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:39:28",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:39:47",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:41:35",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:41:36",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:46:10",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:49:31",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:49:58",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:52:16",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:52:55",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:53:04",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 15:53:16",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 16:03:48",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 16:05:24",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "20/11/2023 16:05:40",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:43:01",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:43:08",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:52:15",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:53:41",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:54:57",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:55:04",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:55:08",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:55:13",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:55:16",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:55:19",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:55:24",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:57:54",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "185"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:58:00",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:58:11",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:58:14",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:58:37",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:58:41",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "185"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:58:49",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "186"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 21:58:52",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:12:35",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "0"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:12:44",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:13:01",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "186"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:13:09",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:13:17",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "184"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:13:20",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:20:50",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:20:54",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:31:42",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:31:43",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:31:47",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:31:50",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:32:34",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "184"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:32:38",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "184"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:32:45",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:33:27",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:33:30",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:39:32",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:39:54",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:39:59",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:40:10",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:40:19",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:44:58",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:45:04",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:45:13",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:45:36",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "151"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:45:41",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:49:41",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "151"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:49:46",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:49:53",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "151"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:50:16",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:50:58",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "151"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:51:25",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "151"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:51:39",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "150"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:51:42",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:55:57",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:59:29",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 22:59:34",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "21/11/2023 23:11:33",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:53:16",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:53:21",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:56:13",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:57:07",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:57:08",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:57:09",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:57:18",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:57:20",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:57:39",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:57:41",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:57:51",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:57:57",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:58:07",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:58:10",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:58:12",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:59:23",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 22:59:40",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:02:38",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:06:34",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:07:41",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:08:47",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:10:00",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:10:02",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:15:15",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:24:15",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:28:19",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:31:27",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:31:39",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:32:48",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:33:01",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/655e80838f1c66b00ac9b672",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:33:05",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:35:52",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:35:55",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:37:11",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:37:13",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:39:34",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:39:40",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/2",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:39:42",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:40:51",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:41:24",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "150"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:41:29",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:41:36",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "151"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:41:40",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "151"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:41:43",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:42:05",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "173"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:42:09",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:42:23",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:42:26",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:42:32",
+  "headers": {
+    "host": "localhost:3000",
+    "content-type": "application/json",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*",
+    "content-length": "153"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/2",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:42:35",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:42:38",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books/1",
+  "hostname": "localhost"
+}
+{
+  "time": "22/11/2023 23:42:40",
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "insomnia/8.4.2",
+    "accept": "*/*"
+  },
+  "ip": "::ffff:127.0.0.1",
+  "url": "/api/books",
+  "hostname": "localhost"
+}
