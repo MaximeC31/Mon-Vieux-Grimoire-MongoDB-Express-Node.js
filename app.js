@@ -1,8 +1,7 @@
 const fs = require('fs');
 const express = require('express');
-const mongoose = require('mongoose');
 const app = express();
-const bookRoutes = require('./routes/book');
+const mongoose = require('mongoose');
 
 // Middleware: Request Logging
 app.use((req, res, next) => {
@@ -30,7 +29,10 @@ app.use((req, res, next) => {
 // Middleware: CORS Headers
 app.use((req, res, next) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content, Accept, Content-Type, Authorization');
+  res.setHeader(
+    'Access-Control-Allow-Headers',
+    'Origin, X-Requested-With, Content, Accept, Content-Type, Authorization'
+  );
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH, OPTIONS');
   next();
 });
@@ -43,7 +45,10 @@ const connectToMongoDB = async () => {
       useUnifiedTopology: true
     };
 
-    await mongoose.connect('mongodb+srv://maximec31:IQd5b6M7weufy4em@atlascluster.extoiwy.mongodb.net/?retryWrites=true&w=majority', connectionOptions);
+    await mongoose.connect(
+      'mongodb+srv://maximec31:IQd5b6M7weufy4em@atlascluster.extoiwy.mongodb.net/?retryWrites=true&w=majority',
+      connectionOptions
+    );
 
     console.log('Connected to MongoDB successfully!');
   } catch (error) {
@@ -52,21 +57,23 @@ const connectToMongoDB = async () => {
 };
 connectToMongoDB();
 
+const bookRoutes = require('./routes/book');
+const userRoutes = require('./routes/user');
+app.use(express.json());
+
+// Apps routes
+app.use('/api/auth', userRoutes);
 app.use('/api/books', bookRoutes);
 
+// Middleware : send response to all routes
 app.use(async (req, res, next) => {
   try {
     res.status(200).send('This is the generic response');
     console.log('Response OK');
   } catch (error) {
-    res.status(500).send('Error');
-    console.log('Response sent with error');
+    res.status(500).json({ error: `Something went wrong! ${error.message}` });
+    console.error(error.stack);
   }
-});
-
-app.use((error, req, res, next) => {
-  console.error(error.stack);
-  res.status(500).json({ error: 'Something went wrong!' });
 });
 
 module.exports = app;

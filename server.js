@@ -2,10 +2,10 @@ const http = require('http');
 const app = require('./app');
 
 const server = http.createServer(app);
+const port = normalizePort(process.env.PORT ?? '4000');
+
 server.on('listening', onListening);
 server.on('error', onError);
-
-const port = normalizePort(process.env.PORT ?? '3000');
 server.listen(port);
 
 function onListening() {

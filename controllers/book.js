@@ -4,15 +4,28 @@ exports.getAllBooks = async (req, res, next) => {
   try {
     const books = await Book.find();
 
-    res.status(200).json(books);
+    if (books) {
+      res.status(200).json(books);
+    } else {
+      res.status(404).json({ message: 'Book not found' });
+    }
   } catch (error) {
     res.status(400).json({ error: error.message });
   }
 };
 
-exports.getOneBook = async (req, res, next) => {  
+exports.deleteBooks = async (req, res, next) => {
   try {
-    const book = await Book.findOne({ _id: req.params.id });
+    await Book.deleteMany({});
+    res.status(200).json({ message: 'Books deleted successfully!' });
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+  }
+};
+
+exports.getOneBook = async (req, res, next) => {
+  try {
+    const book = await Book.findOne({ id: req.params.id });
 
     if (book) {
       res.status(200).json(book);
@@ -29,7 +42,7 @@ exports.createBook = async (req, res, next) => {
     const { title, description, imageUrl, userId, price } = req.body;
 
     const book = new Book({
-      _id: req.params.id,
+      id: req.params.id,
       title,
       description,
       imageUrl,
@@ -49,8 +62,10 @@ exports.modifyBook = async (req, res, next) => {
   try {
     const { title, description, imageUrl, userId, price } = req.body;
 
+    console.log(req.body);
+
     const updatedBook = {
-      _id: req.params.id,
+      id: req.params.id,
       title,
       description,
       imageUrl,
@@ -58,7 +73,7 @@ exports.modifyBook = async (req, res, next) => {
       price
     };
 
-    await Book.updateOne({ _id: req.params.id }, updatedBook);
+    await Book.updateOne({ id: req.params.id }, updatedBook);
 
     res.status(201).json({ message: 'Book updated successfully!' });
   } catch (error) {
@@ -68,7 +83,7 @@ exports.modifyBook = async (req, res, next) => {
 
 exports.deleteBook = async (req, res, next) => {
   try {
-    await Book.deleteOne({ _id: req.params.id });
+    await Book.deleteOne({ id: req.params.id });
 
     res.status(200).json({ message: 'Book deleted successfully!' });
   } catch (error) {
