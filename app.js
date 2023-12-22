@@ -1,12 +1,16 @@
-const fs = require('fs');
 const express = require('express');
 const app = express();
+
 const mongoose = require('mongoose');
 
-// Middleware: Request Logging
-app.use((req, res, next) => {
-  console.log('Request received');
+const fs = require('fs');
+const path = require('path');
 
+const bookRoutes = require('./routes/book');
+const userRoutes = require('./routes/user');
+
+// Get a log of all API activities
+app.use((req, res, next) => {
   const { headers, ip, url, hostname } = req;
   const logObject = {
     time: new Date().toLocaleString(),
@@ -57,23 +61,9 @@ const connectToMongoDB = async () => {
 };
 connectToMongoDB();
 
-const bookRoutes = require('./routes/book');
-const userRoutes = require('./routes/user');
 app.use(express.json());
-
-// Apps routes
+app.use('/images', express.static(path.join(__dirname, 'images')));
 app.use('/api/auth', userRoutes);
 app.use('/api/books', bookRoutes);
-
-// Middleware : send response to all routes
-app.use(async (req, res, next) => {
-  try {
-    res.status(200).send('This is the generic response');
-    console.log('Response OK');
-  } catch (error) {
-    res.status(500).json({ error: `Something went wrong! ${error.message}` });
-    console.error(error.stack);
-  }
-});
 
 module.exports = app;
